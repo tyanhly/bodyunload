@@ -1,0 +1,27 @@
+{
+  "name": "onunload-del-cookies",
+  "version": "1.0.0",
+  "description": "Delete all of coookies when body unload",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyanhly/bodyunload.git"
+  },
+  "keywords": [
+    "onunload",
+    "delete",
+    "cookies"
+  ],
+  "author": "Tung Ly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tyanhly/bodyunload/issues"
+  },
+  "homepage": "https://github.com/tyanhly/bodyunload#readme"
+}
